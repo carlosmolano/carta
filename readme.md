@@ -208,4 +208,4 @@ Nos reunimos y organizamos para proveer una posición independiente y libre de a
 - Juan Esteban Arango - [@juanesarango](https://twitter.com/juanesarango)
 - Pedro Sierra - [@peter_sierra](https://twitter.com/peter_sierra)
 - Andrés Zorro - [@devtooler](https://twitter.com/devtooler)
-- Carlos Molano - [@devtooler](https://twitter.com/CarlosMolanoS)
+- Carlos Molano - [@carlosmolanos](https://twitter.com/CarlosMolanoS)
